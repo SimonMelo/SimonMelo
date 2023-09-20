@@ -18,6 +18,7 @@
 
 </div>
 
+  ##
 - 💻 Atualmente trabalhando como Desenvolvedor Front-end.
 - 🌱 Estudando Tecnologias para Front-end.
 - 🧑‍💻 Trabalhando atualmente para Delbank.
