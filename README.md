@@ -18,8 +18,8 @@
 
 </div><br>
 
-- 💻 Atualmente trabalhando como Desenvolvedor Front-end.
+- 💻 Desenvolvedor Front-end.
 - 🌱 Estudando Tecnologias para Front-end.
-- 🧑‍💻 Trabalhando atualmente para Delbank.
+- 🧑‍💻 Buscando oportunidaed na área de Desenvolvedor Front-end.
 - 📚 Cursando ADS na Unit.
 - 🗺️ Aracaju/SE
