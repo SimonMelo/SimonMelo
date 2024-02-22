@@ -12,6 +12,12 @@
   <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+<div align="center">
+  <a href="https://github.com/SimonMelo">
+    <img src="https://github-readme-stats.vercel.app/api?username=SimonMelo&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=dark" alt="Github Estatísticas">
+  </a>
+</div>
   
   ##
  
