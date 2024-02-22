@@ -32,8 +32,6 @@
     <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=SimonMelo&theme=dark&border_radius=010&locale=pt_BR&card_width=500&hide_longest_streak=true" alt="GitHub Streak">
     </a>
-    <br>
-    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonMelo&layout=compact&theme=dark" alt="Top Languages">
   </div>
 </div>
