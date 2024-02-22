@@ -13,25 +13,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-  
   ##
- 
-<div style="display: grid; grid-template-columns: 1fr 1fr; column-gap: 20px; margin-top: 2rem;">
-  <div>
-    <a href="https://github.com/SimonMelo">
-      <img src="https://github-readme-stats.vercel.app/api?username=SimonMelo&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=dark" alt="Github Estatísticas">
-    </a>
-  </div>
-  <div>
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=SimonMelo&theme=dark&border_radius=010&locale=pt_BR&card_width=500&hide_longest_streak=true" alt="GitHub Streak">
-    </a>
-    <br>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonMelo&layout=compact&theme=dark" alt="Top Languages">
-  </div>
-</div>
-
 <div><br>
   <a href="https://www.instagram.com/newmell0h_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-melo-114046217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -43,3 +25,16 @@
 - 🧑‍💻 Buscando oportunidaed na área de Desenvolvedor Front-end.
 - 📚 Cursando ADS na Unit.
 - 🗺️ Aracaju/SE
+
+ ##
+<div style="display: grid; grid-template-columns: 1fr 1fr; column-gap: 20px; margin-top: 2rem;">
+  <div>
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=SimonMelo&theme=dark&border_radius=010&locale=pt_BR&card_width=500&hide_longest_streak=true" alt="GitHub Streak">
+    </a>
+    <br>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonMelo&layout=compact&theme=dark" alt="Top Languages">
+  </div>
+</div>
+
