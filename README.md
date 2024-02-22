@@ -12,7 +12,10 @@
   <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
+
+  <div style="margin-top: 10px">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SimonMelo&theme=dark&border_radius=010&locale=pt_BR&card_width=500" alt="GitHub Streak" /></a>
+  </div>
   ##
  
 <div><br>
