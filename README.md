@@ -1,8 +1,8 @@
 # Hello World! Prazer, me chamo Gabriel Melo!👋
 
-- 💻 Desenvolvedor Front-end.
-- 🌱 Estudando Tecnologias para Front-end.
-- 🧑‍💻 Buscando oportunidade na área de Desenvolvedor Front-end.
+- 💻 Analista de Sistemas e Líder de Projeto na PGE/SE.
+- 🌱 Estudando Tecnologias complementares para Desenvolvimento Web.
+- 🧑‍💻 Sempre buscando melhor desenvolvimento e aprendizado.
 - 📚 Cursando ADS na Unit.
 - 🗺️ Aracaju/SE
 <br>
