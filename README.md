@@ -3,7 +3,7 @@
 **Desenvolvedor Backend .NET Pleno | Arquitetura de Sistemas**
 Analista de Sistemas & Líder Técnico na Procuradoria-Geral do Estado de Sergipe (PGE/SE)
 
-3+ anos de experiência em sistemas corporativos, com foco em **.NET/C#**, **Clean Architecture** e **APIs REST**. Hoje lidero tecnicamente o **LegisOn 2.0**, portal oficial de legislação do Governo de Sergipe, e coordeno o **SafeSign**, plataforma de assinatura digital governamental em homologação.
+4+ anos de experiência em sistemas corporativos, com foco em **.NET/C#**, **Clean Architecture** e **APIs REST**. Hoje lidero tecnicamente o [LegisOn](https://legislacao.se.gov.br/), portal oficial de legislação do Governo de Sergipe.
 
 ### 🧩 Stack
 
